@@ -1,6 +1,6 @@
 # Experiment 3: DML Commands
 
-## NAME : KAILAS PRABHU S
+## NAME : KAILASH PRABHU S
 ## REG NO : 212224240068
 
 ## AIM
